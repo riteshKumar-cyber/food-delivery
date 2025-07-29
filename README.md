@@ -1,2 +1,2 @@
 # food-delivery
-this is mern stack food -dlivery project
+This is mern stack food -dlivery project
